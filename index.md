@@ -29,7 +29,7 @@ $$
 
 Marx's fault was to claim that all history was a tale of class struggles (between-class). Shakespeare & Wilde provide ample material about another tale (within-class).
 
-Wilde was embedded in *fin de siécle* England, the tired loins of a Victorian morality. He was firmly embedded within society as a participant-observer "watching the English."
+Wilde was embedded in *fin de siécle* England, the tired loins of a Victorian morality. He was firmly embedded within society as a participant-observer "[watching the English](https://en.wikipedia.org/wiki/Watching_the_English)."
 
 Joyce integrates the perspectivism of the bard, the class struggles of Marx (Catholic & Irish vs Protestant & English) & Wilde (Stephen Dedalus vs His Irish & Catholic identity). Dedalus was intolerant of local maxima. He preferred engaging with Hamlet. 
 
