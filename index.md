@@ -19,8 +19,6 @@
 </script>
 {% endraw %}
 
-# Pantheon
-
 $$
 \text{Shakespeare}\ (E, x) \rightarrow
 \text{Marx + Wilde}\ E(t\mid x) + \epsilon \rightarrow
