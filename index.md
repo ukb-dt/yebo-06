@@ -31,7 +31,7 @@ Marx's fault was to claim that all history was a tale of class struggles (betwee
 
 Wilde was embedded in *fin de siécle* England, the tired loins of a Victorian morality. He was firmly embedded within society as a participant-observer "[watching the English](https://en.wikipedia.org/wiki/Watching_the_English)."
 
-Joyce integrates the perspectivism of the bard, the class struggles of Marx (Catholic & Irish vs Protestant & English) & Wilde (Stephen Dedalus vs His Irish & Catholic identity). Dedalus was intolerant of local maxima. He preferred engaging with Hamlet. 
+Joyce [integrates](https://ukb-dt.github.io/pantheon-00/) the perspectivism of the bard, the class struggles of Marx (Catholic & Irish vs Protestant & English) & Wilde (Stephen Dedalus vs His Irish & Catholic identity). Dedalus was intolerant of local maxima. He preferred engaging with Hamlet. 
 
 [Dostoevsky](https://ukb-dt.github.io/yebo-07/) at his penacle offered Alyosha as an example of a person with a powerful *a priori* (soul), Dimitri as one empirical embodiment of hedonism (body), and Ivan as an intellect failing to integrate the deluge it admitted into discourse without any governor (mind).
 
